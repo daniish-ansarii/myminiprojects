@@ -82,7 +82,6 @@ public class typingSpeedTest {
         } else {
             System.out.println("😅 Keep practicing, you'll get better!");
         }
-
         scan.close();
     }
 }

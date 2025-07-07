@@ -77,14 +77,6 @@ This project is open-source and available under the MIT License.
 
 Feel free to fork this repository and contribute by improving the code or adding new features!
 
-💡 Ideas for Improvement
-
-Add a GUI version using Java Swing or JavaFX
-
-Implement leaderboard tracking to store high scores
-
-Introduce multiplayer mode to compete with friends
-
 👨‍💻 Author
 
 MD Danish - Java & Kotlin Developer
